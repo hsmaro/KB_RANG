@@ -1,6 +1,7 @@
 # 제 5회 Future Finance A.I. Challenge
 
-![image](https://github.com/Eastha0526/KB_RANG/assets/110336043/0f2dae24-68ab-4f8b-a791-b57a654bd5a2)
+![image](https://github.com/user-attachments/assets/f1dacf53-4ec1-4067-bcf3-01856cf626d7)
+
 - http://kbdatory.com/
 - 주관 기관 KB 국민은행
 - 프로젝트 기간 : 23.07.21 ~ 23.08.20
@@ -26,7 +27,8 @@
 
 ---
 # 기술 흐름도
-![image](https://github.com/Eastha0526/KB_RANG/assets/110336043/eaee3d04-86cb-4515-9f67-d9c3dc16afcc)
+![image](https://github.com/user-attachments/assets/a0ec455e-2154-4a11-bae0-ed4df9393374)
+
 
 
 ---
