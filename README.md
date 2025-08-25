@@ -2,7 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/f1dacf53-4ec1-4067-bcf3-01856cf626d7)
 
-- http://kbdatory.com/
+- http://kbdatory.com/ (공식 사이트 폐쇄)
+- [공고 사이트](https://linkareer.com/activity/143356)
 - 주관 기관 KB 국민은행
 - 프로젝트 기간 : 23.07.21 ~ 23.08.20
 - 목적 : 금융업 전반에서 인공지능 기술을 활용한 문제개선 및 가치 창출
